@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rent A Car</string>
+    <string name="textview">TextView</string>
+    <string name="pick_day_and_time">PIck Day and Time</string>
+    <string-array name="car_types">
+        <item> Choose Car Type</item>
+        <item> Renault Clio</item>
+        <item>Volkswagen Polo</item>
+        <item>Ford Fiesta</item>
+        <item>VW Tiguan</item>
+        <item>Peugeot 208</item>
+        <item>Skoda Octavia</item>
+        <item>Opel / Vauxhall Astra</item>
+        <item>Ford Focus</item>
+
+    </string-array>
+</resources>
